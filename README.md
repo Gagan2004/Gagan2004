@@ -14,7 +14,7 @@
     <img src="https://img.icons8.com/ios-filled/50/ffffff/internet--v1.png" width="30" height="30" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/your-link" target="_blank" title="Connect on LinkedIn">
+  <a href="https://www.linkedin.com/in/gagan-kaushik-29714b277/" target="_blank" title="Connect on LinkedIn">
     <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="30" height="30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
