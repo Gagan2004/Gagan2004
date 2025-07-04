@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-stack+Developer;AI+Toolmaker+%26+Logic+Architect;Chrome+Extension+Builder;Clean.+Smart.+Intentional+Code" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hey...I'm_Gagan__</h1>
+<h1 align="center">Hey...I'm---Gagan__</h1>
 
 <h3 align="center">Connect with Me</h3>
 
@@ -71,7 +71,7 @@ Logic should feel like magic ✨
 🔹 A visual development tool that transforms logic flows into deployable full-stack code using LLMs.  
 🧠 Designed for developers who think in diagrams, not syntax.  
 
-🔗 [Live Demo](https://lucid-code-client.vercel.app/) | 📦 [Source Code](https://github.com/your-username/LucidCode)
+🔗 [Live Demo](https://lucid-code-client.vercel.app/) | 📦 [Source Code](https://github.com/Gagan2004/lucid_code-Client)
 
 ---
 
@@ -83,7 +83,7 @@ Logic should feel like magic ✨
 🔹 A fully responsive property rental app with search filters, user roles, calendar, and review systems.  
 🧩 Real-world architecture and complexity, inspired by Airbnb.
 
-🔗 [Live Demo](https://air-bnb-clone-frontend.vercel.app/) | 📦 [Source Code](https://github.com/your-username/Airbnb-Clone)
+🔗 [Live Demo](https://air-bnb-clone-frontend.vercel.app/) | 📦 [Source Code](https://github.com/Gagan2004/air_bnb_clone_backend)
 
 ---
 
@@ -94,7 +94,7 @@ Logic should feel like magic ✨
 🔹 Converts natural language into Linux terminal commands to manage files & directories.  
 💬 Ask in plain English — execute like a pro.  
 
-🔗 [Live Demo](https://linux-groq.vercel.app) | 📦 [Source Code](https://github.com/your-username/NLP-Terminal-App)
+🔗 [Live Demo](https://linux-groq.vercel.app) | 📦 [Source Code](https://github.com/Gagan2004/FileFlow-AI)
 
 ---
 
@@ -105,7 +105,7 @@ Logic should feel like magic ✨
 🔹 A playful, theme-rich developer portfolio powered by an animated Omnitrix dial.  
 🎨 Stands out by design.  
 
-🔗 [Live Demo](https://personal-portfolio-one-sepia.vercel.app/) | 📦 [Source Code](https://github.com/your-username/Omnitrix-Portfolio)
+🔗 [Live Demo](https://personal-portfolio-one-sepia.vercel.app/) | 📦 [Source Code](https://github.com/Gagan2004/personal_Portfolio)
 
 ---
 
