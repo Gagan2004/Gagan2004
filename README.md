@@ -28,6 +28,11 @@
 </p>
 
 
+
+<div align ="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Gagan2004&theme=tokyonight&hide_border=true"/></div> 
+
+
+
 ---
 
 ## 💡 About Me
@@ -57,7 +62,6 @@ Logic should feel like magic ✨
 
 ---
 
-<div align ="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Gagan2004&theme=tokyonight&hide_border=true"/></div> 
 
 
 ## 🚀 Projects Showcase
