@@ -68,6 +68,26 @@ Logic should feel like magic ✨
 
 ---
 
+
+### 🎬 AI Video Generator — *Topic to Video in Seconds*  
+**Tech Stack:** `Python` · `Google Gemini` · [OpenCV] · `CustomTkinter`  
+**Category:** AI · Content Creation · Automation  
+
+🔹 Automates end-to-end video production: AI-generated scripts, voiceovers, and stock footage compilation.  
+💬 Enter a topic — get a polished video with narration and visuals.  
+
+🔗 [Source Code](https://github.com/Gagan2004/AI-video-generator-)
+
+**Key Features:**
+- 🤖 **AI Script Generation** — Gemini API creates engaging narratives
+- 🎙️ **Auto Voiceovers** — Text-to-speech with natural intonation
+- 🎥 **Stock Footage Integration** — Pexels API for relevant B-roll
+- 🖥️ **Desktop GUI** — Modern dark-themed interface with live progress
+- ⚡ **Bulk Processing** — Generate multiple videos from a topic list
+
+ ---
+
+
 ### 🧩 LucidCode — *AI Visual Logic Builder*  
 **Tech Stack:** `React Flow` · `Groq API` · `Node.js` · `Tailwind`  
 **Category:** Full-stack · Generative AI · Visual Development  
